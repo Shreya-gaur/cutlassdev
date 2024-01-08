@@ -51,7 +51,7 @@ namespace debug {
 /// stride of S elements.  If N is not specified, dump the data of all the
 /// threads.  If M is not specified, dump all the elements of the fragment.
 template <typename Fragment>
-CUTLASS_DEVICE void dump_fragment(Fragment const& frag, int N = 0, int M = 0,
+CUTLASS_DEVICE void dump_fragment(Fragment const& frag, int B = -1, int N = 0, int M = 0,
                                   int S = 1) {
   int total_threads = blockDim.x * blockDim.y * blockDim.z;
   int block_id =
@@ -85,6 +85,8 @@ CUTLASS_DEVICE void dump_fragment(Fragment const& frag, int N = 0, int M = 0,
 
   if (M == 0) M = total_elements;
 
+  if (B == -1) B = 0;
+
   if (S < 1 || S > M) {
     if (thread_id == 0 && block_id == 0)
       printf("Stride S = %d should between [1, %d].\n", S, M);
@@ -94,18 +96,20 @@ CUTLASS_DEVICE void dump_fragment(Fragment const& frag, int N = 0, int M = 0,
     return;
   }
 
-  if (thread_id == 0 && block_id == 0)
+  if (thread_id == 0 && block_id == B)
     printf("\n*******************Dumping the fragments*******************\n\n");
 
   CUTLASS_PRAGMA_NO_UNROLL
   for (int tid = 0; tid < N; ++tid) {
     if (tid == thread_id) {
-      printf("TB%d W%d T%d: ", block_id, tid / 32, tid & 31);
-      CUTLASS_PRAGMA_NO_UNROLL
-      for (int i = 0; i < M; i += S) {
-        printf("%.0f ", float(typename Fragment::value_type(frag[i])));
+      if(block_id == B){
+        printf("TB%d W%d T%d: ", block_id, tid / 32, tid & 31);
+        CUTLASS_PRAGMA_NO_UNROLL
+        for (int i = 0; i < M; i += S) {
+          printf("%.0f ", float(typename Fragment::value_type(frag[i])));
+        }
+        printf("\n");
       }
-      printf("\n");
     }
 
     __syncthreads();
@@ -183,5 +187,40 @@ CUTLASS_DEVICE void dump_shmem(Element const* ptr, size_t size, int S = 1) {
 
   return;
 }
+
+/******************************************************************************
+ * Dump the indices of different tiles in memory for the filter and activation iterator
+ ******************************************************************************/
+
+template <typename TileIterator>
+CUTLASS_DEVICE void dump_tile_indices(TileIterator &tile_iterator, int start=0, int stop=0) {
+  int total_threads = blockDim.x * blockDim.y * blockDim.z;
+  int block_id =
+      blockIdx.x + blockIdx.y * gridDim.x + gridDim.x * gridDim.y * blockIdx.z;
+  int thread_id = (threadIdx.z * (blockDim.x * blockDim.y)) +
+                  (threadIdx.y * blockDim.x) + threadIdx.x;
+
+  if (stop==-1) stop = total_threads; 
+
+  CUTLASS_PRAGMA_NO_UNROLL
+  for (int tid = start; tid <= stop; ++tid) {
+    if (tid == thread_id) {
+	  cutlass::layout::TensorNHWC::TensorCoord output_indices = tile_iterator.tile_access_iterator_.at();
+      printf("For TB%d, W%d, T%d --> n: %d, h: %d, w: %d, c: %d \n", block_id, tid/32, tid & 31, 
+			  output_indices.n(), output_indices.h(), output_indices.w(), output_indices.c());
+	  
+    //  printf("For TB%d, W%d, T%d --> k: %d, r: %d, s: %d, c: %d, iv: %ld, pointer:%d \n", block_id, tid/32, tid & 31, 
+	//
+    //    tile_iterator.tile_access_iterator_.offset_k_[tile_iterator.tile_access_iterator_.iteration_strided_], 
+    //    tile_iterator.tile_access_iterator_.filter_r_, 
+    //    tile_iterator.tile_access_iterator_.filter_s_,
+    //    tile_iterator.tile_access_iterator_.filter_c_,
+	//	(long)tile_iterator.tile_access_iterator_.iteration_vector_
+	//	); //AccessType::kElements = 32 for turing_tensorops
+    }
+    __syncthreads();
+  }
+}
+
 }  // namespace debug
 }  // namespace cutlass

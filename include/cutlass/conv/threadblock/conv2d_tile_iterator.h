@@ -81,7 +81,7 @@ public:
     Element, 
     ThreadMap::Iterations::kCount * ThreadMap::kElementsPerAccess>;
 
-private:
+// private:
 
   /// Internal state
   TileAccessIterator tile_access_iterator_;
@@ -155,6 +155,7 @@ public:
             tile_access_iterator_.get() + pointer_offset,
             tile_access_iterator_.valid()
           );
+
   
           ++tile_access_iterator_;
         }

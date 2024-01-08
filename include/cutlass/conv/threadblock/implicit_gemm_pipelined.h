@@ -45,6 +45,24 @@
 #include "cutlass/gemm/gemm.h"
 #include "cutlass/gemm/threadblock/mma_base.h"
 
+#include "cutlass/util/debug.h"
+#include "cutlass/util/device_dump.h"
+
+//#define DEBUG_TILE_INDICES_FILTER
+#define DEBUG_TILE_INDICES_ACTIVATION
+//#define DEBUG_FRAGMENT
+
+#ifdef DEBUG_FRAGMENT
+  #define PREQ
+#endif
+
+#ifdef DEBUG_TILE_INDICES_FILTER
+  #define PREQ
+#endif
+
+#ifdef DEBUG_TILE_INDICES_ACTIVATION
+  #define PREQ
+#endif
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
 namespace cutlass {
@@ -209,6 +227,52 @@ public:
     iterator_A.load(tb_frag_A);
     iterator_B.load(tb_frag_B);
 
+    #ifdef PREQ
+      int thread_id = (threadIdx.z * (blockDim.x * blockDim.y)) +
+                  (threadIdx.y * blockDim.x) + threadIdx.x;
+      int block_id = blockIdx.x + blockIdx.y * gridDim.x + gridDim.x * gridDim.y * blockIdx.z;
+    #endif
+
+    #ifdef DEBUG_FRAGMENT
+    if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Prolog starts here*******************\n\n");
+
+    debug::dump_fragment(tb_frag_A, 0);
+
+    if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Prolog ends here*******************\n\n");
+    #endif
+
+    #ifdef DEBUG_TILE_INDICES_FILTER
+    if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Prolog starts here*******************\n\n");
+	
+	__syncthreads();
+
+    debug::dump_tile_indices(iterator_B, 0, 0);
+
+	__syncthreads();
+    
+	if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Prolog ends here*******************\n\n");
+    #endif
+
+
+    #ifdef DEBUG_TILE_INDICES_ACTIVATION
+
+    if (thread_id == 4 && block_id == 0)
+      printf("\n*******************Prolog starts here*******************\n\n");
+	
+	__syncthreads();
+
+    debug::dump_tile_indices(iterator_A, 4, 4);
+
+	__syncthreads();
+    
+	if (thread_id == 4 && block_id == 0)
+      printf("\n*******************Prolog ends here*******************\n\n");
+    #endif
+
     ++iterator_A;
     ++iterator_B;
 
@@ -298,6 +362,39 @@ public:
 
           iterator_A.load(tb_frag_A);
           iterator_B.load(tb_frag_B);
+
+          #ifdef DEBUG_FRAGMENT
+          if (thread_id == 0 && block_id == 0)
+            printf("\n******************* Gemm Iteration %d begins here *******************\n", gemm_k_iterations);
+          debug::dump_fragment(tb_frag_B, 0);
+          if (thread_id == 0 && block_id == 0)
+            printf("\n******************* Gemm Iteration %d ends here *******************\n", gemm_k_iterations);
+          #endif
+
+          #ifdef DEBUG_TILE_INDICES_FILTER
+		  __syncthreads();
+          if (threadIdx.x == 0 && blockIdx.x == 0)
+            printf("\n******************* Gemm Iteration %d begins here *******************\n", gemm_k_iterations);
+              
+          debug::dump_tile_indices(iterator_B, 0, 0);
+
+	 	  __syncthreads();
+          if (threadIdx.x == 0 && blockIdx.x == 0)
+            printf("\n******************* Gemm Iteration %d ends here *******************\n", gemm_k_iterations);
+
+          #endif
+
+		#ifdef DEBUG_TILE_INDICES_ACTIVATION
+		__syncthreads();
+		if (thread_id == 4 && block_id == 0)
+		  printf("\n*******************Gemm Iteration %d begins here*******************\n", gemm_k_iterations);
+		
+		debug::dump_tile_indices(iterator_A, 4, 4);
+
+		__syncthreads();
+		if (thread_id == 4 && block_id == 0)
+            printf("\n******************* Gemm Iteration %d ends here *******************\n", gemm_k_iterations);
+		#endif
     
           ++iterator_A;
           ++iterator_B;

@@ -1,0 +1,4874 @@
+
+*******************Prolog starts here*******************
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+******************* Gemm Iteration 2 ends here *******************
+
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+
+
+
+
+*******************Dumping current state of indices*******************
+
+
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 0
+
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 9 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+
+
+
+
+
+
+******************* Gemm Iteration 8 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+
+******************* Gemm Iteration 7 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+
+******************* Gemm Iteration 6 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+For TB3, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+
+For TB6, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 1, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 0, filter_c_: 0
+
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 1, filter_c_: 0
+
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB7, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB5, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+For TB1, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+
+For TB3, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB6, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+For TB2, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 2, filter_s_: 2, filter_c_: 0
+
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB7, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB1, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+For TB5, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+
+For TB3, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB6, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+For TB2, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 begins here *******************
+
+*******************Dumping current state of indices*******************
+
+For TB0, W0, T0 --> filter_r_: 0, filter_s_: 0, filter_c_: 128
+
+
+******************* Gemm Iteration 1 ends here *******************
+Layer,N,H,W,C,K,R,S,Runtime,GFLOPs
+conv_1,1,32,32,32,32,3,3,20.0976,0.939134

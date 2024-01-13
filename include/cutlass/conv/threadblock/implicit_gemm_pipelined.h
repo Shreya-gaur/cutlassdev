@@ -49,7 +49,7 @@
 #include "cutlass/util/device_dump.h"
 
 //#define DEBUG_TILE_INDICES_FILTER
-#define DEBUG_TILE_INDICES_ACTIVATION
+//#define DEBUG_TILE_INDICES_ACTIVATION
 //#define DEBUG_FRAGMENT
 
 #ifdef DEBUG_FRAGMENT
@@ -386,13 +386,13 @@ public:
 
 		#ifdef DEBUG_TILE_INDICES_ACTIVATION
 		__syncthreads();
-		if (thread_id == 4 && block_id == 0)
+		if (thread_id == 0 && block_id == 0)
 		  printf("\n*******************Gemm Iteration %d begins here*******************\n", gemm_k_iterations);
 		
-		debug::dump_tile_indices(iterator_A, 4, 4);
+		debug::dump_tile_indices(iterator_A, 0, 0);
 
 		__syncthreads();
-		if (thread_id == 4 && block_id == 0)
+		if (thread_id == 0 && block_id == 0)
             printf("\n******************* Gemm Iteration %d ends here *******************\n", gemm_k_iterations);
 		#endif
     

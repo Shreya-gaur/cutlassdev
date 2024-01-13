@@ -46,6 +46,7 @@
 #include "cutlass/conv/threadblock/conv2d_fprop_activation_tile_access_iterator_few_channels.h"
 
 #include "cutlass/conv/threadblock/conv2d_fprop_filter_tile_access_iterator_analytic.h"
+#include "cutlass/conv/threadblock/conv2d_fprop_filter_tile_access_iterator_eqanalytic.h"
 #include "cutlass/conv/threadblock/conv2d_fprop_filter_tile_access_iterator_optimized.h"
 #include "cutlass/conv/threadblock/conv2d_fprop_filter_tile_access_iterator_fixed_channels.h"
 #include "cutlass/conv/threadblock/conv2d_fprop_filter_tile_access_iterator_few_channels.h"
@@ -884,7 +885,7 @@ struct DefaultConv2dFprop <
   using AccessTypeB = cutlass::AlignedArray<ElementB, AlignmentB>;
   using IteratorB =
     cutlass::conv::threadblock::TileIterator<
-      cutlass::conv::threadblock::Conv2dFpropFilterTileAccessIteratorAnalytic<
+      cutlass::conv::threadblock::Conv2dFpropFilterTileAccessIteratorEqAnalytic<
         cutlass::MatrixShape<ThreadblockShape::kK, ThreadblockShape::kN>,
         ElementB, LayoutB,
         ThreadMapB,

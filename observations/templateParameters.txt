@@ -1,0 +1,3 @@
+ThreadMap::kThreads
+ThreadMap::Detail::WarpThreadArrangement::kContiguous
+ThreadMap::Detail::WarpThreadArrangement::kStrided

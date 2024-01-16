@@ -47,6 +47,10 @@
 #include "cutlass/conv/convolution.h"
 #include "cutlass/conv/conv2d_problem_size.h"
 
+#include "cutlass/util/debug.h"
+#include "cutlass/util/device_dump.h"
+
+#define DEBUG_INTERNAL
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
 namespace cutlass {
@@ -81,7 +85,7 @@ public:
     Element, 
     ThreadMap::Iterations::kCount * ThreadMap::kElementsPerAccess>;
 
-// private:
+ private:
 
   /// Internal state
   TileAccessIterator tile_access_iterator_;
@@ -134,6 +138,15 @@ public:
   /// Loads a fragment from memory
   CUTLASS_DEVICE
   void load_with_pointer_offset(Fragment &frag, Index pointer_offset) {
+    
+    #ifdef DEBUG_INTERNAL
+    int thread_id = (threadIdx.z * (blockDim.x * blockDim.y)) +
+                  (threadIdx.y * blockDim.x) + threadIdx.x;
+    int block_id = blockIdx.x + blockIdx.y * gridDim.x + gridDim.x * gridDim.y * blockIdx.z;
+	
+	if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Load Initiated*******************\n\n");
+    #endif
 
     frag.clear();
     AccessType *frag_ptr = reinterpret_cast<AccessType *>(&frag);
@@ -156,7 +169,20 @@ public:
             tile_access_iterator_.valid()
           );
 
-  
+    #ifdef DEBUG_INTERNAL
+    if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Internal Iteration Begins*******************\n\n");
+	
+	__syncthreads();
+
+    debug::dump_internal_state(tile_access_iterator_, 0, 0, -1);
+
+	__syncthreads();
+    
+	if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Internal Iteration Ends*******************\n\n");
+    #endif
+
           ++tile_access_iterator_;
         }
       }

@@ -48,9 +48,14 @@
 #include "cutlass/util/debug.h"
 #include "cutlass/util/device_dump.h"
 
+#define DEBUG_INTERNAL_IMP
 //#define DEBUG_TILE_INDICES_FILTER
 //#define DEBUG_TILE_INDICES_ACTIVATION
 //#define DEBUG_FRAGMENT
+
+#ifdef DEBUG_INTERNAL_IMP
+  #define PREQ
+#endif
 
 #ifdef DEBUG_FRAGMENT
   #define PREQ
@@ -215,6 +220,12 @@ public:
     //
 
     // Perform accumulation in the 'd' output operand
+    #ifdef PREQ
+      int thread_id = (threadIdx.z * (blockDim.x * blockDim.y)) +
+                  (threadIdx.y * blockDim.x) + threadIdx.x;
+      int block_id = blockIdx.x + blockIdx.y * gridDim.x + gridDim.x * gridDim.y * blockIdx.z;
+    #endif
+
     accum = src_accum;
 
     FragmentA tb_frag_A;
@@ -223,15 +234,25 @@ public:
     tb_frag_A.clear();
     tb_frag_B.clear();
 
-    // The last kblock is loaded in the prolog
+	// The last kblock is loaded in the prolog
+	
+	#ifdef DEBUG_INTERNAL_IMP
+
+    if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Load for Activation here*******************\n\n");
+	#endif
+
     iterator_A.load(tb_frag_A);
+	
+	#ifdef DEBUG_INTERNAL_IMP
+	__syncthreads();
+
+    if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Load for Filter here*******************\n\n");
+	#endif
+
     iterator_B.load(tb_frag_B);
 
-    #ifdef PREQ
-      int thread_id = (threadIdx.z * (blockDim.x * blockDim.y)) +
-                  (threadIdx.y * blockDim.x) + threadIdx.x;
-      int block_id = blockIdx.x + blockIdx.y * gridDim.x + gridDim.x * gridDim.y * blockIdx.z;
-    #endif
 
     #ifdef DEBUG_FRAGMENT
     if (thread_id == 0 && block_id == 0)
@@ -360,8 +381,23 @@ public:
 
         if (warp_mma_k == 0) {
 
+		#ifdef DEBUG_INTERNAL_IMP
+		 if (thread_id == 0 && block_id == 0)
+			  printf("\n*******************Load for Activation here*******************\n\n");
+		
+		#endif
+
           iterator_A.load(tb_frag_A);
+		
+		#ifdef DEBUG_INTERNAL_IMP
+		__syncthreads();		
+
+    	if (thread_id == 0 && block_id == 0)
+     		 printf("\n*******************Load for Filter here*******************\n\n");
+		#endif
+
           iterator_B.load(tb_frag_B);
+
 
           #ifdef DEBUG_FRAGMENT
           if (thread_id == 0 && block_id == 0)

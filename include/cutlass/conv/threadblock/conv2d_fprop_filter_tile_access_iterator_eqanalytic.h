@@ -198,6 +198,7 @@ public:
 	#ifdef DEV
 	AbstractWarpThreadMap<ThreadMap> abswarp(problem_size_);
 	#endif
+
     if (kGroupMode != conv::GroupMode::kNone) {
       filter_c_init_ = filter_c_;
       if (kGroupMode == conv::GroupMode::kDepthwise){
@@ -210,7 +211,7 @@ public:
     }
 
 	#ifdef DEBUG
-		//DebugValue<ThreadMap::Delta::kStrided>::kStrided;	
+		DebugValue< ThreadMap::Detail::WarpThreadArrangement::kStrided >::kStrided
 	#endif
 
     CUTLASS_PRAGMA_UNROLL
@@ -285,16 +286,15 @@ public:
   CUTLASS_HOST_DEVICE
   TensorCoord at() const {
 
-    int k = offset_k_[iteration_strided_];
+    int k = offset_rs_[iteration_strided_] / (problem_size_.S * problem_size_.R);
+    //int k = offset_k_[iteration_strided_];
 
-	int r = offset_rs_[iteration_strided_] / (problem_size_.R * problem_size_.S);
-
-	int s = offset_rs_[iteration_strided_] % (problem_size_.R * problem_size_.S);
-	
+	int r = (offset_rs_[iteration_strided_] / (problem_size_.S)) % problem_size_.S;
+	int s = offset_rs_[iteration_strided_] % (problem_size_.S);
     int c = filter_c_ + iteration_vector_ * AccessType::kElements;
 
-    //return TensorCoord(k, r, s, c);
-    return TensorCoord(k, filter_r_, filter_s_, c);
+    return TensorCoord(k, r, s, c);
+    //return TensorCoord(k, filter_r_, filter_s_, c);
 
   }
 

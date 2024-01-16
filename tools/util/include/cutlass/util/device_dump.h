@@ -193,7 +193,8 @@ CUTLASS_DEVICE void dump_shmem(Element const* ptr, size_t size, int S = 1) {
  ******************************************************************************/
 
 template <typename TileIterator>
-CUTLASS_DEVICE void dump_tile_indices(TileIterator &tile_iterator, int start=0, int stop=0) {
+CUTLASS_DEVICE 
+void dump_tile_indices(TileIterator &tile_iterator, int start=0, int stop=0) {
   int total_threads = blockDim.x * blockDim.y * blockDim.z;
   int block_id =
       blockIdx.x + blockIdx.y * gridDim.x + gridDim.x * gridDim.y * blockIdx.z;
@@ -205,19 +206,42 @@ CUTLASS_DEVICE void dump_tile_indices(TileIterator &tile_iterator, int start=0, 
   CUTLASS_PRAGMA_NO_UNROLL
   for (int tid = start; tid <= stop; ++tid) {
     if (tid == thread_id) {
-	  cutlass::layout::TensorNHWC::TensorCoord output_indices = tile_iterator.tile_access_iterator_.at();
+	  // cutlass::layout::TensorNHWC::TensorCoord output_indices = tile_iterator.tile_access_iterator_.at();
+	  cutlass::layout::TensorNHWC::TensorCoord output_indices = tile_iterator.at();
       printf("For TB%d, W%d, T%d --> n: %d, h: %d, w: %d, c: %d \n", block_id, tid/32, tid & 31, 
 			  output_indices.n(), output_indices.h(), output_indices.w(), output_indices.c());
 	  
-    //  printf("For TB%d, W%d, T%d --> k: %d, r: %d, s: %d, c: %d, iv: %ld, pointer:%d \n", block_id, tid/32, tid & 31, 
-	//
-    //    tile_iterator.tile_access_iterator_.offset_k_[tile_iterator.tile_access_iterator_.iteration_strided_], 
-    //    tile_iterator.tile_access_iterator_.filter_r_, 
-    //    tile_iterator.tile_access_iterator_.filter_s_,
-    //    tile_iterator.tile_access_iterator_.filter_c_,
-	//	(long)tile_iterator.tile_access_iterator_.iteration_vector_
-	//	); //AccessType::kElements = 32 for turing_tensorops
     }
+    __syncthreads();
+  }
+}
+
+/******************************************************************************
+ * Dump the internal states of the iterator
+ ******************************************************************************/
+template <typename TileAccessIterator>
+CUTLASS_DEVICE 
+void dump_internal_state(TileAccessIterator &tile_access_iterator, int block=0, int start=0, int stop=0) {
+
+  int total_threads = blockDim.x * blockDim.y * blockDim.z;
+  int total_blocks = gridDim.x * gridDim.y * gridDim.z;
+  int block_id =
+      blockIdx.x + blockIdx.y * gridDim.x + gridDim.x * gridDim.y * blockIdx.z;
+  int thread_id = (threadIdx.z * (blockDim.x * blockDim.y)) +
+                  (threadIdx.y * blockDim.x) + threadIdx.x;
+
+  if (stop==-1) stop = total_threads; 
+  if (block==-1) block = total_blocks;
+
+  CUTLASS_PRAGMA_NO_UNROLL
+  for (int tid = start; tid <= stop; ++tid) {
+    if (tid == thread_id) {
+		if(block_id == block){
+		  cutlass::layout::TensorNHWC::TensorCoord output_indices = tile_access_iterator.at();
+		  printf("For TB%d, W%d, T%d --> n: %d, h: %d, w: %d, c: %d \n", block_id, tid/32, tid & 31, 
+				  output_indices.n(), output_indices.h(), output_indices.w(), output_indices.c());
+    	}
+	}
     __syncthreads();
   }
 }

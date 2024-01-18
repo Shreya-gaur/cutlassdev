@@ -157,6 +157,7 @@ public:
   LongIndex iteration_vector_;
   char const *pointer_;
 
+  int filter_k_;
   int filter_r_;
   int filter_s_;
   int filter_c_;
@@ -166,8 +167,6 @@ public:
   int group_idx_offset_c_;
   int channels_per_group_;
 
-  int offset_k_[ThreadMap::Iterations::kStrided];
-  int offset_k_temp_[ThreadMap::Iterations::kStrided];
   int offset_rs_[ThreadMap::Iterations::kStrided];
   int group_idx_offset_k_[ThreadMap::Iterations::kStrided];
 
@@ -186,6 +185,7 @@ public:
     pointer_(reinterpret_cast<char const *>(ptr)), 
     crs_cnt_(0),
     group_idx_offset_c_(0),
+	filter_k_(0),
     filter_r_(0),
     filter_s_(0),
     filter_c_(0)
@@ -219,10 +219,6 @@ public:
       
 	  offset_rs_[s] = threadblock_offset.column() + thread_coord.strided() + s * ThreadMap::Delta::kStrided;
 	  
-	  offset_k_[s] = threadblock_offset.column() + thread_coord.strided() + s * ThreadMap::Delta::kStrided;
-
-	  offset_k_temp_[s] = offset_rs_[s] / (problem_size_.R * problem_size_.S);	
-
       if (kGroupMode != conv::GroupMode::kNone && kGroupMode != conv::GroupMode::kDepthwise) {
         group_idx_offset_k_[s] = (thread_coord.strided() + s * ThreadMap::Delta::kStrided) / (problem_size_.K / problem_size_.groups);
       }
@@ -252,7 +248,14 @@ public:
     if (kGroupMode != conv::GroupMode::kNone) {
       ++crs_cnt_;
 	}
+	
+	//filter_k_ += (ThreadMap::Shape::kStrided - (problem_size_.R * problem_size_.S) + 1) / (problem_size_.R * problem_size_.S); 
+	filter_k_ += ThreadMap::Shape::kStrided / (problem_size_.R * problem_size_.S); 
+    if (filter_k_ < problem_size_.K) {
+      return;
+    }
 
+    filter_s_ = 0;
     ++filter_s_;
     if (filter_s_ < problem_size_.S) {
       return;
@@ -286,8 +289,8 @@ public:
   CUTLASS_HOST_DEVICE
   TensorCoord at() const {
 
-    int k = offset_rs_[iteration_strided_] / (problem_size_.S * problem_size_.R);
-    //int k = offset_k_[iteration_strided_];
+    int k = filter_k_ + offset_rs_[iteration_strided_] / (problem_size_.S * problem_size_.R);
+    //int k = offset_rs_[iteration_strided_];
 
 	int r = (offset_rs_[iteration_strided_] / (problem_size_.S)) % problem_size_.S;
 	int s = offset_rs_[iteration_strided_] % (problem_size_.S);

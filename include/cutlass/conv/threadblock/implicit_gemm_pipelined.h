@@ -48,10 +48,10 @@
 #include "cutlass/util/debug.h"
 #include "cutlass/util/device_dump.h"
 
-#define DEBUG_INTERNAL_IMP
+//#define DEBUG_INTERNAL_IMP
 //#define DEBUG_TILE_INDICES_FILTER
 //#define DEBUG_TILE_INDICES_ACTIVATION
-//#define DEBUG_FRAGMENT
+#define DEBUG_FRAGMENT
 
 #ifdef DEBUG_INTERNAL_IMP
   #define PREQ
@@ -258,7 +258,7 @@ public:
     if (thread_id == 0 && block_id == 0)
       printf("\n*******************Prolog starts here*******************\n\n");
 
-    debug::dump_fragment(tb_frag_A, 0);
+    debug::dump_fragment(tb_frag_B, 0);
 
     if (thread_id == 0 && block_id == 0)
       printf("\n*******************Prolog ends here*******************\n\n");

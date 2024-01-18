@@ -50,7 +50,7 @@
 #include "cutlass/util/debug.h"
 #include "cutlass/util/device_dump.h"
 
-#define DEBUG_INTERNAL
+//#define DEBUG_INTERNAL
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
 namespace cutlass {

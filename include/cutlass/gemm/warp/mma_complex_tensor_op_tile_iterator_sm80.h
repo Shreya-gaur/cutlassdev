@@ -141,7 +141,6 @@ class MmaTensorOpMultiplicandTileIterator<
 
     /// Shape of one access
     using Delta = layout::PitchLinearShape<8, 4>;
-
     /// Number of iterations to load
     using Iterations = layout::PitchLinearShape<
       Shape::kContiguous / Delta::kContiguous,
@@ -196,7 +195,6 @@ public:
     int quad_pair = lane_id / 8;
     int quad = lane_id / 4;
     int lane = lane_id % 4;
-
     int row = (quad & 1) * 4 + (lane ^ quad_pair);
     
     byte_offset_ = (row + quad_pair * stride_) * sizeof(AccessType);

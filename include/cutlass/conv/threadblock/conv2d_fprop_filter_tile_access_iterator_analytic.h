@@ -53,7 +53,6 @@
 #include "cutlass/conv/conv2d_problem_size.h"
 #include "cutlass/conv/threadblock/conv2d_params.h"
 
-#define DEBUG
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
 namespace cutlass {
@@ -163,10 +162,6 @@ public:
         crs_per_group_ = problem_size_.S * problem_size_.R * ((channels_per_group_ + Shape::kRow - 1) / Shape::kRow);
       }
     }
-
-	#ifdef DEBUG
-		DebugValue<ThreadMap::Delta::kStrided>::kStrided;
-	#endif
 
     CUTLASS_PRAGMA_UNROLL
     for (int s = 0; s < ThreadMap::Iterations::kStrided; ++s) {

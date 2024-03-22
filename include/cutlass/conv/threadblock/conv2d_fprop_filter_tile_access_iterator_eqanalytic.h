@@ -54,7 +54,7 @@
 #include "cutlass/conv/threadblock/conv2d_params.h"
 
 
-//#define DEBUG
+//#define DEBUG_FIL_IT
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
 namespace cutlass {
@@ -210,8 +210,8 @@ public:
       }
     }
 
-	#ifdef DEBUG
-		DebugValue< ThreadMap::Detail::WarpThreadArrangement::kStrided >::kStrided
+	#ifdef DEBUG_FIL_IT
+		DebugValue< ThreadMap::Detail::WarpThreadArrangement::kStrided >::kStrided;
 	#endif
 
     CUTLASS_PRAGMA_UNROLL

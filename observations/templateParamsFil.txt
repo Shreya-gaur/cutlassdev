@@ -1,0 +1,9 @@
+ThreadMap::kThreads
+ThreadMap::Detail::WarpThreadArrangement::kContiguous
+ThreadMap::Detail::WarpThreadArrangement::kStrided
+ThreadMap::Detail::ShapeInAccess::kContiguous
+ThreadMap::Detail::ShapeInAccess::kStrided
+ThreadMap::Detail::WarpArrangement::kContiguous
+ThreadMap::Detail::WarpArrangement::kStrided
+ThreadMap::Iterations::kContiguous
+ThreadMap::Iterations::kStrided

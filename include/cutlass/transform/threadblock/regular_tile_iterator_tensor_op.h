@@ -96,6 +96,8 @@ private:
 
   /// Element type per access
   using AccessType = Array<Element, Layout::kElementsPerAccess>;
+	
+  TensorRef ref_; 
 
 public:
 
@@ -122,7 +124,8 @@ public:
   RegularTileIterator(TensorRef ref,  ///< Pointer to start of tensor
                       int thread_id   ///< ID of each participating thread
                       )
-      : address_iterator_(ref, thread_id) {}
+      : ref_(ref),
+		address_iterator_(ref, thread_id) {}
 
   /// Adds a pointer offset in units of Element
   CUTLASS_HOST_DEVICE

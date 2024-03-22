@@ -52,6 +52,10 @@
 #include "cutlass/platform/platform.h"
 #include "cutlass/fast_math.h"
 
+#include "cutlass/util/debug.h"
+
+//#define DEBUG_MMA_TIL
+
 ////////////////////////////////////////////////////////////////////////////////
 
 namespace cutlass {
@@ -197,7 +201,7 @@ private:
 
   /// Pointer type used for accesses
   using AccessType = Array<Element, Layout::kElementsPerAccess>;
-
+public:
   /// Internal counter used to jump to next K partition
   int k_group_idx_;
 
@@ -219,6 +223,7 @@ private:
   /// Shared memory base pointers - not advanced
   AccessType const *pointer_[kPointerCount];
 
+public:
   /// Byte offset incremented as iterator advances
   Index byte_offset_;
 
@@ -392,6 +397,7 @@ public:
     Array<unsigned, Policy::LdsmShape::kCount> *fetch_ptr = 
       reinterpret_cast<Array<unsigned, Policy::LdsmShape::kCount> *>(&frag);
 
+
     CUTLASS_PRAGMA_UNROLL
     for (int s = 0; s < Policy::LdsmIterations::kStrided; ++s) {
 
@@ -475,6 +481,15 @@ public:
   CUTLASS_DEVICE
   void set_kgroup_index(int k_group) {
     // no op
+  }
+  CUTLASS_DEVICE
+  int get_kgroup_index() {
+    return k_group_idx_;
+  }
+
+  CUTLASS_DEVICE
+  Index get_byte_offset() {
+    return byte_offset_;
   }
 };
 
@@ -605,6 +620,7 @@ class MmaTensorOpMultiplicandTileIterator<
   /// Pointer type used for accesses
   using AccessType = Element;
 
+public:
   /// Internal counter used to jump to next K partition
   int k_group_idx_;
 
@@ -624,6 +640,7 @@ class MmaTensorOpMultiplicandTileIterator<
   /// Shared memory base pointers - not advanced
   AccessType const *pointer_[kPointerCount];
 
+public:
   /// Byte offset incremented as iterator advances
   Index byte_offset_;
 
@@ -837,6 +854,16 @@ class MmaTensorOpMultiplicandTileIterator<
   CUTLASS_DEVICE
   void set_kgroup_index(int k_group) {
     // no op
+  }
+
+  CUTLASS_DEVICE
+  int get_kgroup_index() {
+    return -2;
+  }
+
+  CUTLASS_DEVICE
+  Index get_byte_offset() {
+    return byte_offset_;
   }
 };
 
@@ -1070,6 +1097,16 @@ public:
   void set_kgroup_index(int k_group) {
     iterator_.set_kgroup_index(k_group); 
   }
+
+  CUTLASS_DEVICE
+  int get_kgroup_index() {
+    return iterator_.k_group_idx_;
+  }
+
+  CUTLASS_DEVICE
+  Index get_byte_offset() {
+    return iterator_.byte_offset_;
+  }
 };
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -1299,6 +1336,16 @@ public:
   void set_kgroup_index(int k_group) {
     iterator_.set_kgroup_index(k_group); 
   }
+  CUTLASS_DEVICE
+  int get_kgroup_index() {
+    return -4;
+  //  return k_group_idx_;
+  }
+
+  CUTLASS_DEVICE
+  Index get_byte_offset() {
+    return iterator_.byte_offset_;
+  }
 };
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -1387,7 +1434,7 @@ class MmaTensorOpMultiplicandTileIterator<
         "Shape of warp-level Mma must be divisible by operator shape.");
 
     // Determine number of elements along outer dimension per individual LDSM op
-    static int const kLdsmOpOuter = Layout::kElementsPerAccess;
+    static int const kLdsmOpOuter = Layout::kElementsPerAccess; // Layout::kElementsPerAccess = 32
     static int const kLdsmOpInner = 8;
 
     static_assert(!(Shape::kContiguous % kLdsmOpOuter),
@@ -1400,21 +1447,22 @@ class MmaTensorOpMultiplicandTileIterator<
 
     /// Shape of one individual LDSM instruction
     static int const LdsmShapeContiguous =
-        InstructionShape::kContiguous / kLdsmOpOuter;
+        InstructionShape::kContiguous / kLdsmOpOuter; //InstructionShape::kContiguous = 32
     static int const LdsmShapeStrided =
         ((4 / LdsmShapeContiguous * kLdsmOpInner) > Shape::kStrided)
             ? (Shape::kStrided / kLdsmOpInner)
             : (4 / LdsmShapeContiguous);
+
     using LdsmShape =
-        layout::PitchLinearShape<LdsmShapeContiguous, LdsmShapeStrided>;
+        layout::PitchLinearShape<LdsmShapeContiguous, LdsmShapeStrided>; // For kA and kB, kContiguous = 1, kStrided = 4
 
     /// Number and arrangement of LDSM instructions
     using LdsmIterations =
-        layout::PitchLinearShape<1, Shape::kStrided / kLdsmOpInner /
+        layout::PitchLinearShape<1, Shape::kStrided / kLdsmOpInner / // For kA and kB both, kContiguous = 1, kStrided = 2
                                         LdsmShape::kStrided>;
 
-    ///
-    static int const kGroupsPerTile = Layout::TileShape::kContiguous /
+    /// Layout::TileShape <8,4>
+    static int const kGroupsPerTile = Layout::TileShape::kContiguous / //For kA and kB both, kGroupsPerTile = 4
                                       Layout::kFactor / LdsmShape::kContiguous;
   };
 
@@ -1449,9 +1497,11 @@ class MmaTensorOpMultiplicandTileIterator<
   /// Shared memory base pointers - not advanced
   AccessType const *pointer_;
 
+public:
   /// Byte offset incremented as iterator advances
   Index byte_offset_;
 
+public:
   /// Internal counter used to determine when to increment byte offset and when
   /// to XOR it
   int k_group_idx_;
@@ -1484,18 +1534,22 @@ class MmaTensorOpMultiplicandTileIterator<
     lane_id = lane_id % (Policy::LdsmShape::kCount * Policy::kLdsmOpInner);
 #endif
 
-    int quad_quad = (lane_id >> 4);
-    int quad_pair = (lane_id >> 3);
-    int lane_in_pair = (lane_id & 1);
-    int lane_in_quad = (lane_id & 3);
-    int lane_in_quad_pair = (lane_id & 7);
-    int lane_in_quad_quad = (lane_id & 15);
+#ifdef DEBUG_MMA_TIL
+	DebugValue<Policy::kGroupsPerTile>::kGroupsPerTile;
+#endif
+
+    int quad_quad = (lane_id >> 4); //How many quads of quads in one warp? lane_id / 16
+    int quad_pair = (lane_id >> 3); //How many pairs of quads in one warp? lane_id / 8
+    int lane_in_pair = (lane_id & 1); //What is my index in pairs of lane_ids in one warp? lane_id % 2
+    int lane_in_quad = (lane_id & 3); //What is my index in a quad in a warp? lane_id % 4 
+    int lane_in_quad_pair = (lane_id & 7); //What is my indes in a pair of quads in a warp? lane_id % 8
+    int lane_in_quad_quad = (lane_id & 15); //What is my indes in a pair of quads in a warp? lane_id % 16
 
     int partition_contiguous_idx = -1;
     int access_contiguous_idx = -1;
     int access_strided_idx = -1;
 
-    if (Layout::kFactor == 4) {
+    if (Layout::kFactor == 4) { //kFactor = 2 hence this fails
       // Super Integer matrix multiply Interleaved-32
 
       int factor_in_partition =
@@ -1529,9 +1583,9 @@ class MmaTensorOpMultiplicandTileIterator<
             ((lane_in_pair * factor_in_partition + ((lane_id & 8) >> 3)) ^
              access_strided_idx);
       }
-    } else if (Layout::kFactor == 2) {
+    } else if (Layout::kFactor == 2) { //kFactor = 2
       // Super Matrix multiply kBlock = 32
-      if (Policy::LdsmShape::kStrided == Policy::LdsmShape::kCount) {
+      if (Policy::LdsmShape::kStrided == Policy::LdsmShape::kCount) { //This is true cuz kstrided = 4 = kCount
         // Matrix multiply 1688 A/B
         // (Q stands for 1 8x128bit block).
         // Q0
@@ -1539,9 +1593,9 @@ class MmaTensorOpMultiplicandTileIterator<
         // Q2
         // Q3
         // Four blocks are next to each other in the strided dimension.
-        partition_contiguous_idx = (lane_id % Layout::kFactor);
-        access_contiguous_idx = (lane_in_quad_pair / Layout::kFactor);
-        access_strided_idx = lane_id / Layout::kFactor;
+        partition_contiguous_idx = (lane_id % Layout::kFactor); //For example, lane_id 21 will have 1
+        access_contiguous_idx = (lane_in_quad_pair / Layout::kFactor); //For example, lane_in_quad_pair = 21 % 8 = 5 access.. = 2
+        access_strided_idx = lane_id / Layout::kFactor; // 21 / 2 = 10
       }
       else if (Policy::LdsmShape::kStrided ==
                      (Policy::LdsmShape::kCount / 2) &&
@@ -1616,7 +1670,7 @@ class MmaTensorOpMultiplicandTileIterator<
         partition_contiguous_idx * Layout::PartitionShape::kContiguous +
         access_contiguous_idx;
 
-    int access_strided = access_strided_idx;
+    int access_strided = access_strided_idx; // 10 for lane_id 21
 
     byte_offset_ = (access_contiguous + access_strided * stride_) *
                    sizeof_bits<Element>::value * Layout::kElementsPerAccess / 8;
@@ -1857,6 +1911,16 @@ class MmaTensorOpMultiplicandTileIterator<
   void set_kgroup_index(int k_group) {
     k_group_idx_ = k_group % (Policy::kGroupsPerTile / kPartitionsK);
   }
+
+  CUTLASS_DEVICE
+  int get_kgroup_index() {
+    return k_group_idx_;
+  }
+
+  CUTLASS_DEVICE
+  Index get_byte_offset() {
+    return byte_offset_;
+  }
 };
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -2095,6 +2159,16 @@ class MmaTensorOpMultiplicandTileIterator<
   void set_kgroup_index(int k_group) {
     iterator_.set_kgroup_index(k_group); 
   }
+  CUTLASS_DEVICE
+  int get_kgroup_index() {
+  //  return -5;
+    return iterator_.k_group_idx_;
+  }
+
+  CUTLASS_DEVICE
+  Index get_byte_offset() {
+    return iterator_.byte_offset_;
+  }
 };
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -2332,6 +2406,16 @@ class MmaTensorOpMultiplicandTileIterator<
   CUTLASS_DEVICE
   void set_kgroup_index(int k_group) {
     iterator_.set_kgroup_index(k_group); 
+  }
+  CUTLASS_DEVICE
+  int get_kgroup_index() {
+    //return -6;
+    return iterator_.k_group_idx_;
+  }
+
+  CUTLASS_DEVICE
+  Index get_byte_offset() {
+    return iterator_.byte_offset_;
   }
 };
 

@@ -246,5 +246,31 @@ void dump_internal_state(TileAccessIterator &tile_access_iterator, int block=0, 
   }
 }
 
+template <typename TileAccessIterator>
+CUTLASS_DEVICE 
+void dump_mma_internal_state(TileAccessIterator &tile_access_iterator, int block=0, int start=0, int stop=0) {
+
+  int total_threads = blockDim.x * blockDim.y * blockDim.z;
+  int total_blocks = gridDim.x * gridDim.y * gridDim.z;
+  int block_id =
+      blockIdx.x + blockIdx.y * gridDim.x + gridDim.x * gridDim.y * blockIdx.z;
+  int thread_id = (threadIdx.z * (blockDim.x * blockDim.y)) +
+                  (threadIdx.y * blockDim.x) + threadIdx.x;
+
+  if (stop==-1) stop = total_threads; 
+  if (block==-1) block = total_blocks;
+
+  CUTLASS_PRAGMA_NO_UNROLL
+  for (int tid = start; tid <= stop; ++tid) {
+    if (tid == thread_id) {
+		if(block_id == block){
+		  int kgroup_index = tile_access_iterator.get_kgroup_index();
+		  int byte_offset = tile_access_iterator.get_byte_offset();
+		  printf("For TB%d, W%d, T%d --> kgroup: %d, byte_offset: %d \n", block_id, tid/32, tid & 31, kgroup_index, byte_offset);
+    	}
+	}
+    __syncthreads();
+  }
+}
 }  // namespace debug
 }  // namespace cutlass

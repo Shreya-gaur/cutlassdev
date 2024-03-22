@@ -44,6 +44,10 @@
 #include "cutlass/tensor_ref.h"
 #include "cutlass/transform/threadblock/regular_tile_access_iterator.h"
 
+#include "cutlass/util/debug.h"
+#include "cutlass/util/device_dump.h"
+
+//#define DEBUG_REG
 ////////////////////////////////////////////////////////////////////////////////
 
 namespace cutlass {
@@ -116,6 +120,9 @@ class RegularTileAccessIterator<
   /// Stride value
   StrideIndex stride_;
 
+  // TensorRef value
+  TensorRef ref_;
+
   /// Internal pointer to first access of tile
   AccessType *pointer_[Detail::kPointerCount];
 
@@ -134,7 +141,8 @@ class RegularTileAccessIterator<
   RegularTileAccessIterator(TensorRef ref,  ///< Pointer to start of tensor
                             int thread_id   ///< ID of each participating thread
                             )
-      : stride_(ref.stride(0) / Layout::kElementsPerAccess),
+      : ref_(ref),
+		stride_(ref.stride(0) / Layout::kElementsPerAccess),
         byte_offset_(0) {
     layout::PitchLinearCoord thread_offset_base =
         ThreadMap::initial_offset(thread_id);
@@ -525,6 +533,11 @@ class RegularTileAccessIterator<Shape_, Element_,
         // stride_ = kCrosswise x sections_ x kFactor
         stride_(ref.stride(0) * Layout::kFactor / Layout::kElementsPerAccess),
         byte_offset_(0) {
+
+#ifdef DEBUG_REG
+	DebugValue<ThreadMap::Iterations::kStrided>::kStrided;
+#endif
+
     layout::PitchLinearCoord thread_offset_base =
         ThreadMap::initial_offset(thread_id);
 

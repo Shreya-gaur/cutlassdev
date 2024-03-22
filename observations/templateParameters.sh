@@ -9,7 +9,7 @@ LINE=1
 while read -r CURRENT_LINE
 	do
 		echo "Parameter is $CURRENT_LINE"
-		sed -i "/DebugValue</c\		DebugValue< ${CURRENT_LINE} >::kStrided;" ../include/cutlass/conv/threadblock/*eqanalytic.h
+		sed -i "/DebugValue</c\		DebugValue< ${CURRENT_LINE} >::kStrided;" ../include/cutlass/conv/threadblock/conv2d_fprop_filter_tile_access_iterator_eqanalytic.h
 		(cd ../build/examples/09_turing_tensorop_conv2dfprop && make) >> testingcommand.txt
 		((LINE++))
 
@@ -22,13 +22,13 @@ rm -f output.txt
 
 while read -r CURRENT_LINE
 	do
-		echo " ------ ${CURRENT_LINE} ----- " >> output.txt
+		echo " ------ ${CURRENT_LINE} ----- " >> output_fil.txt
 
-		grep "DebugValue<" testingcommand.txt | sed -n ${LINE}p >> output.txt
+		grep "DebugValue<" testingcommand.txt | sed -n ${LINE}p >> output_fil.txt
 
-		echo " -------------------------------------------------------  " >> output.txt
+		echo " -------------------------------------------------------  " >> output_fil.txt
 
-		echo " " >> output.txt
+		echo " " >> output_fil.txt
 
 		((LINE++))	
 done < templateParameters.txt

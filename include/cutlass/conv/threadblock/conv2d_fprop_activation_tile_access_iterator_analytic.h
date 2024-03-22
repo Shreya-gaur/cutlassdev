@@ -75,7 +75,6 @@ public:
   
   //
   // Types
-  //
 
   using Shape = Shape_;
   using Element = Element_;

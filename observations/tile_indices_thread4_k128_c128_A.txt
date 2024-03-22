@@ -1,0 +1,2564 @@
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+
+*******************Prolog starts here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 0 
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 0 
+
+*******************Prolog ends here*******************
+
+For TB4, W0, T4 --> n: 0, h: 15, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 1, c: 0 
+
+*******************Gemm Iteration 9 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 1, c: 0 
+
+******************* Gemm Iteration 9 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 27, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 3, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 11, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 19, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 23, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 7, w: 2, c: 0 
+
+*******************Gemm Iteration 8 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 2, c: 0 
+
+******************* Gemm Iteration 8 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 0, c: 0 
+
+*******************Gemm Iteration 7 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 0, c: 0 
+
+******************* Gemm Iteration 7 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 1, c: 0 
+
+*******************Gemm Iteration 6 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 1, c: 0 
+
+******************* Gemm Iteration 6 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 16, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 28, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 4, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 12, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 20, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 24, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 8, w: 2, c: 0 
+
+*******************Gemm Iteration 5 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 0, w: 2, c: 0 
+
+******************* Gemm Iteration 5 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 0, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 0, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 0, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 0, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 0, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 0, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 0, c: 0 
+
+*******************Gemm Iteration 4 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 0, c: 0 
+
+******************* Gemm Iteration 4 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 1, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 1, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 1, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 1, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 1, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 1, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 1, c: 0 
+
+*******************Gemm Iteration 3 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 1, c: 0 
+
+******************* Gemm Iteration 3 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 17, w: 2, c: 0 
+For TB7, W0, T4 --> n: 0, h: 29, w: 2, c: 0 
+For TB1, W0, T4 --> n: 0, h: 5, w: 2, c: 0 
+For TB3, W0, T4 --> n: 0, h: 13, w: 2, c: 0 
+For TB5, W0, T4 --> n: 0, h: 21, w: 2, c: 0 
+For TB6, W0, T4 --> n: 0, h: 25, w: 2, c: 0 
+For TB2, W0, T4 --> n: 0, h: 9, w: 2, c: 0 
+
+*******************Gemm Iteration 2 begins here*******************
+For TB0, W0, T4 --> n: 0, h: 1, w: 2, c: 0 
+
+******************* Gemm Iteration 2 ends here *******************
+For TB4, W0, T4 --> n: 0, h: 15, w: 0, c: 128 
+For TB7, W0, T4 --> n: 0, h: 27, w: 0, c: 128 
+For TB1, W0, T4 --> n: 0, h: 3, w: 0, c: 128 
+For TB3, W0, T4 --> n: 0, h: 11, w: 0, c: 128 
+For TB5, W0, T4 --> n: 0, h: 19, w: 0, c: 128 
+For TB6, W0, T4 --> n: 0, h: 23, w: 0, c: 128 
+For TB2, W0, T4 --> n: 0, h: 7, w: 0, c: 128 
+
+*******************Gemm Iteration 1 begins here*******************
+For TB0, W0, T4 --> n: 0, h: -1, w: 0, c: 128 
+
+******************* Gemm Iteration 1 ends here *******************
+Layer,N,H,W,C,K,R,S,Runtime,GFLOPs
+conv_1,1,32,32,128,128,3,3,17.531,17.226

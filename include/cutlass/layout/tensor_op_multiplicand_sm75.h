@@ -83,12 +83,14 @@ struct TensorOpMultiplicand {
 
   /// Contiguous dimension of the tile shape matches one shared memory cache
   /// line - 128B.  For 128bit access size, it equals to 8 accesses.
-  static int const kTileShapeContiguous = 128 / (kAccessSize / 8);
+  // One shared memory cache line has 32 banks.
+  // How many 128bit contiguous chunks can I pick up from one cache line --> This correspnds to 8 * 32 elements picked up from one cache line
+  static int const kTileShapeContiguous = 128 / (kAccessSize / 8); // 32 banks completely / 4 banks per Access size of 128bits
 
   /// Number of kblocks to store PartitionShape::kContiguous Elements
   static int const kFactor =
-      kTileShapeContiguous * kElementsPerAccess / kCrosswise;
-
+      kTileShapeContiguous * kElementsPerAccess / kCrosswise; // kCrosswise = 128 elements --> kFactor = 32 * 8 / 128 = 2
+  //This means the two whole columns of warp tile size 128 * 64 can be picked up from one shared memory cache line
   static_assert(
       (kFactor > 0),
       "kCrosswise should be no large than one shared memory cache line.");
@@ -97,6 +99,8 @@ struct TensorOpMultiplicand {
   /// kTileShapeContiguous) for a warp to access.  To ensure conflict free
   /// access, it also needs to be at least (kTileShapeContiguous / kFactor).
   /// See comments below
+  // How many cache lines do I pick up from one warp itself?
+  // I have 8 threads handling one cache line. 
   static int const kTileShapeStride =
       ((kTileShapeContiguous / kFactor) > (32 / kTileShapeContiguous))
           ? (kTileShapeContiguous / kFactor)

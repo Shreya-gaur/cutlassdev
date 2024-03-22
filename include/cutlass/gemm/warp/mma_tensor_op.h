@@ -55,6 +55,8 @@
 #include "cutlass/gemm/warp/mma_tensor_op_tile_iterator.h"
 #include "cutlass/gemm/warp/mma_tensor_op_tile_iterator_sm80.h"
 
+#define DEBUG_MMA
+
 /////////////////////////////////////////////////////////////////////////////////////////////////
 
 namespace cutlass {
@@ -278,7 +280,7 @@ public:
 
   /// Ctor
   CUTLASS_DEVICE
-  MmaTensorOp() {}
+	  MmaTensorOp() {}
 
   /// Performs a warp-level matrix multiply-accumulate operation
   CUTLASS_DEVICE
@@ -299,7 +301,11 @@ public:
     MmaOperandB const *ptr_B = reinterpret_cast<MmaOperandB const *>(&B);
     MmaOperandC *ptr_D = reinterpret_cast<MmaOperandC *>(&D);
 
-      
+#ifdef DEBUG_MMA
+	//DebugValue<MmaIterations::kRow>::kRow;
+	//DebugValue<Shape::kN>::kN;
+#endif
+
     if (kVerticalVisit) {
       CUTLASS_PRAGMA_UNROLL
       for (int n = 0; n < MmaIterations::kColumn; ++n) {

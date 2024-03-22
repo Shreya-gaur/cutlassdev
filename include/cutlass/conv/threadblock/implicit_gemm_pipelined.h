@@ -51,7 +51,10 @@
 //#define DEBUG_INTERNAL_IMP
 //#define DEBUG_TILE_INDICES_FILTER
 //#define DEBUG_TILE_INDICES_ACTIVATION
-#define DEBUG_FRAGMENT
+//#define DEBUG_FRAGMENT
+//#define DEBUG_SHRMEM
+
+#define DEBUG_KGROUP
 
 #ifdef DEBUG_INTERNAL_IMP
   #define PREQ
@@ -66,6 +69,14 @@
 #endif
 
 #ifdef DEBUG_TILE_INDICES_ACTIVATION
+  #define PREQ
+#endif
+
+#ifdef DEBUG_SHRMEM
+  #define PREQ
+#endif
+
+#ifdef DEBUG_KGROUP
   #define PREQ
 #endif
 /////////////////////////////////////////////////////////////////////////////////////////////////
@@ -156,6 +167,7 @@ public:
   /// Complex transform on B operand
   static ComplexTransform const kTransformB = Operator::kTransformB;
 
+  using SharedStorage = typename Base::SharedStorage;
   // staticaly assert kStages for MmaPipelined is two (Double-buffered pipeline)
   static_assert((Base::kStages==2), "MmaPipelined requires kStages set to value 2");
 
@@ -164,13 +176,15 @@ private:
   using WarpFragmentA = typename Operator::FragmentA;
   using WarpFragmentB = typename Operator::FragmentB;
 
-protected:
 
+protected:
   /// Iterator to write threadblock-scoped tile of A operand to shared memory
   SmemIteratorA smem_iterator_A_;
 
   /// Iterator to write threadblock-scoped tile of B operand to shared memory
   SmemIteratorB smem_iterator_B_;
+
+  SharedStorage shared_storage_;
 
 public:
 
@@ -182,6 +196,7 @@ public:
     int warp_idx,                                       ///< ID of warp
     int lane_idx                                        ///< ID of each thread within a warp
   ):
+	shared_storage_(shared_storage),
     Base(shared_storage, thread_idx, warp_idx, lane_idx),
     smem_iterator_A_(shared_storage.operand_A_ref(), thread_idx),
     smem_iterator_B_(shared_storage.operand_B_ref(), thread_idx) {
@@ -281,16 +296,16 @@ public:
 
     #ifdef DEBUG_TILE_INDICES_ACTIVATION
 
-    if (thread_id == 4 && block_id == 0)
+    if (thread_id == 0 && block_id == 0)
       printf("\n*******************Prolog starts here*******************\n\n");
 	
 	__syncthreads();
 
-    debug::dump_tile_indices(iterator_A, 4, 4);
+    debug::dump_tile_indices(iterator_A, 0, 0);
 
 	__syncthreads();
     
-	if (thread_id == 4 && block_id == 0)
+	if (thread_id == 0 && block_id == 0)
       printf("\n*******************Prolog ends here*******************\n\n");
     #endif
 
@@ -299,6 +314,21 @@ public:
 
     this->smem_iterator_A_.store(transform_A(tb_frag_A));
     this->smem_iterator_B_.store(transform_B(tb_frag_B));
+
+    #ifdef DEBUG_SHRMEM
+
+    if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Prolog starts here*******************\n\n");
+	
+	__syncthreads();
+
+    debug::dump_shmem(shared_storage_.operand_A_ref().data(), 128 * 128, 1);
+
+	__syncthreads();
+    
+	if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Prolog ends here*******************\n\n");
+    #endif
 
     ++this->smem_iterator_A_;
     ++this->smem_iterator_B_;
@@ -311,6 +341,21 @@ public:
 
     this->warp_tile_iterator_A_.set_kgroup_index(0);
     this->warp_tile_iterator_B_.set_kgroup_index(0);
+	
+    #ifdef DEBUG_KGROUP
+
+    if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Prolog starts here*******************\n\n");
+	
+	__syncthreads();
+
+    debug::dump_mma_internal_state(this->warp_tile_iterator_B_, 0, 0, -1);
+
+	__syncthreads();
+    
+	if (thread_id == 0 && block_id == 0)
+      printf("\n*******************Prolog ends here*******************\n\n");
+    #endif
 
     this->warp_tile_iterator_A_.load(warp_frag_A[0]);
     this->warp_tile_iterator_B_.load(warp_frag_B[0]);
@@ -372,6 +417,21 @@ public:
 
         this->warp_tile_iterator_A_.set_kgroup_index((warp_mma_k + 1) % Base::kWarpGemmIterations);
         this->warp_tile_iterator_B_.set_kgroup_index((warp_mma_k + 1) % Base::kWarpGemmIterations);
+
+		#ifdef DEBUG_KGROUP
+
+		if (thread_id == 0 && block_id == 0)
+		  printf("\n*******************Kgroup for iteration %d begins*******************\n\n", gemm_k_iterations);
+		
+		__syncthreads();
+
+		debug::dump_mma_internal_state(this->warp_tile_iterator_B_, 0, 0, -1);
+
+		__syncthreads();
+		
+		if (thread_id == 0 && block_id == 0)
+		  printf("\n*******************Kgroup for iteration %d ends*******************\n\n", gemm_k_iterations);
+		#endif
         
         this->warp_tile_iterator_A_.load(warp_frag_A[(warp_mma_k + 1) % 2]);
         this->warp_tile_iterator_B_.load(warp_frag_B[(warp_mma_k + 1) % 2]);
